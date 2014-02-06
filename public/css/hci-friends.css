@@ -9,6 +9,16 @@
 	color: #CC00AA;
 }
 
+.profile img {
+	width:300px;
+}
+
+.profile {
+    margin-left: 20px;
+    background-color: #f4bf01;
+    padding: 20px;
+    width: 500px;
+}
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
